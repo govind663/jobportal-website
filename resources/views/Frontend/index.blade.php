@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="author" content="Jobboard">
-    <title>Speed Techserve | Welcome JobBoard</title>
+    <title>Speed Techserve | Welcome JobBoard Coding Thunder</title>
     <link rel="shortcut icon" href="assets/img/favicon_1.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/jasny-bootstrap.css" type="text/css">
